@@ -11,7 +11,7 @@ Error: Signature mismatch:
        Modules do not match:
          sig type t = int val foo : t -> unit end
        is not included in
-         IntFoo_t.IntFoo_t
-       Unbound module type IntFoo_t.IntFoo_t
+         IntFoo_t.T_t
+       Unbound module type IntFoo_t.T_t
 make: *** [test/test5.cmx] Error 2
 *)

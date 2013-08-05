@@ -7,3 +7,7 @@
 *.cmx
 *.cmxs
 *.cmxa
+depends
+*~
+*.inferred
+*.inferred.new
